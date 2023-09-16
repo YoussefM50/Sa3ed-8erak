@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "778753406888",
+    "project_id": "sa3ed-3-erak-8097c",
+    "storage_bucket": "sa3ed-3-erak-8097c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778753406888:android:9d7a8d2f7cd0b30a370f9d",
+        "android_client_info": {
+          "package_name": "com.example.final_pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778753406888-ht9i2uaimnau02jmq2m1hdt4pvdnq0nt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHJXhFoVpFPyNGXqOJQyIPnvGE2UF9W1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778753406888-ht9i2uaimnau02jmq2m1hdt4pvdnq0nt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
